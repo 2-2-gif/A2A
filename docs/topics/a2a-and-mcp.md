@@ -91,3 +91,5 @@ It's conceivable that an A2A Server (a remote agent) could also expose some of i
 However, the primary strength of A2A lies in its support for more flexible, stateful, and collaborative interactions that go beyond typical tool invocation. A2A is about agents _partnering_ on tasks, while MCP is more about agents _using_ capabilities.
 
 By leveraging both A2A for inter-agent collaboration and MCP for tool integration, developers can build more powerful, flexible, and interoperable AI systems.
+
+[leave](https://alpha.com)
