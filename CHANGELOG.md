@@ -6,13 +6,13 @@
 ### ⚠ BREAKING CHANGES
 
 * **spec:** Add a required protocol version to the agent card. ([#802](https://github.com/a2aproject/A2A/issues/802))
-* Support for multiple pushNotification config per task ([#738](https://github.com/a2aproject/A2A/issues/738)) ([f355d3e](https://github.com/a2aproject/A2A/commit/f355d3e922de61ba97873fe2989a8987fc89eec2))
+* Support for multiple pushNotification config per task ([#738](https://github.com/a2aproject/A2A/issues/738)) ([#f355d3e](https://github.com/a2aproject/A2A/commit/f355d3e922de61ba97873fe2989a8987fc89eec2))
 
 
 ### Features
 
 * **spec:** Add a required protocol version to the agent card. ([#802](https://github.com/a2aproject/A2A/issues/802)) ([90fa642](https://github.com/a2aproject/A2A/commit/90fa64209498948b329a7b2ac6ec38942369157a))
-* **spec:** Support for multiple pushNotification config per task ([#738](https://github.com/a2aproject/A2A/issues/738)) ([f355d3e](https://github.com/a2aproject/A2A/commit/f355d3e922de61ba97873fe2989a8987fc89eec2))
+* **spec:** Support for multiple pushNotification config per task ([#738](https://github.com/a2aproject/A2A/issues/738)) ([#f355d3e](https://github.com/a2aproject/A2A/commit/f355d3e922de61ba97873fe2989a8987fc89eec2))
 
 
 ### Documentation
@@ -31,7 +31,7 @@
 
 ### Bug Fixes
 
-* Address some typos in gRPC annotations ([#747](https://github.com/a2aproject/A2A/issues/747)) ([f506881](https://github.com/a2aproject/A2A/commit/f506881c9b8ff0632d7c7107d5c426646ae31592))
+* Address some typos in gRPC annotations ([#747](https://github.com/a2aproject/A2A/issues/747)) ([#f506881](https://github.com/a2aproject/A2A/commit/f506881c9b8ff0632d7c7107d5c426646ae31592))
 
 ## [0.2.2](https://github.com/a2aproject/A2A/compare/v0.2.1...v0.2.2) (2025-06-09)
 
@@ -56,5 +56,5 @@
 
 ### Features
 
-* Add a new boolean for supporting authenticated extended cards ([#618](https://github.com/a2aproject/A2A/issues/618)) ([e0a3070](https://github.com/a2aproject/A2A/commit/e0a3070fc289110d43faf2e91b4ffe3c29ef81da))
+* Add a new boolean for supporting authenticated extended cards ([#618](https://github.com/a2aproject/A2A/issues/618)) ([#e0a3070](https://github.com/a2aproject/A2A/commit/e0a3070fc289110d43faf2e91b4ffe3c29ef81da))
 * Add optional referenceTaskIds for task followups ([#608](https://github.com/a2aproject/A2A/issues/608)) ([5368e77](https://github.com/a2aproject/A2A/commit/5368e7728cb523caf1a9218fda0b1646325f524b))
