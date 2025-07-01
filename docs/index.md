@@ -7,7 +7,7 @@ hide:
 # Agent2Agent (A2A) Protocol
 
 <figure class="hero" markdown>
-  ![A2A Banner](assets/a2a-banner.png)
+  [A2A Banner](assets/a2a-banner.png)
   <figcaption>
     The <strong>Agent2Agent (A2A) Protocol</strong> is an open standard
     designed to enable seamless communication and collaboration between AI agents.<br>
