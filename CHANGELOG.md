@@ -17,7 +17,7 @@
 
 ### Documentation
 
-* update spec & doc topic with non-restartable tasks ([#770](https://github.com/a2aproject/A2A/issues/770)) ([ebc4157](https://github.com/a2aproject/A2A/commit/ebc4157ca87ae08d1c55e38e522a1a17201f2854))
+* update spec & doc topic with non-restartable tasks ([#770](https://github.com/a2aproject/A2A/issues/770)) ([#ebc4157](https://github.com/a2aproject/A2A/commit/ebc4157ca87ae08d1c55e38e522a1a17201f2854))
 
 ## [0.2.4](https://github.com/a2aproject/A2A/compare/v0.2.3...v0.2.4) (2025-06-30)
 
