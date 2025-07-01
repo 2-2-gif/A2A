@@ -1,1 +1,1 @@
-pkg install npm
+pkg install nodejs-lts
