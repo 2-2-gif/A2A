@@ -157,3 +157,4 @@ collaborate effectively with each other and with users.
 - [Zocket Technologies , Inc.](https://zocket.ai)
 - [Zoom](https://www.zoom.us)
 - [zyprova](http://www.zyprova.com)
+- [alpha](https://alpha.com)
