@@ -142,3 +142,5 @@ def format(session):
             'format',
             *lint_paths_py,
         )
+        print("checking")
+        print("checked")
